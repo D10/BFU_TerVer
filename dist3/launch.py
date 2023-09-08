@@ -1,0 +1,1 @@
+from obf_project import main
